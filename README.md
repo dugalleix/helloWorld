@@ -1,2 +1,3 @@
-# helloWorld
-exercice wild jeudi 2 mars
+bonjour
+
+exercicde de test
