@@ -1,3 +1,3 @@
 bonjour
 
-exercicde de test
+exercice de test
